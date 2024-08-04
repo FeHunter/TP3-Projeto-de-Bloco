@@ -1,0 +1,15 @@
+C:\Users\hunte\Documents\Programmer\Estudos\Faculdade\Back-End\PB\TP3 - Escrever Arquivo CSV\bin\Debug\net6.0\TP3 - Escrever Arquivo CSV.exe
+C:\Users\hunte\Documents\Programmer\Estudos\Faculdade\Back-End\PB\TP3 - Escrever Arquivo CSV\bin\Debug\net6.0\TP3 - Escrever Arquivo CSV.deps.json
+C:\Users\hunte\Documents\Programmer\Estudos\Faculdade\Back-End\PB\TP3 - Escrever Arquivo CSV\bin\Debug\net6.0\TP3 - Escrever Arquivo CSV.runtimeconfig.json
+C:\Users\hunte\Documents\Programmer\Estudos\Faculdade\Back-End\PB\TP3 - Escrever Arquivo CSV\bin\Debug\net6.0\TP3 - Escrever Arquivo CSV.dll
+C:\Users\hunte\Documents\Programmer\Estudos\Faculdade\Back-End\PB\TP3 - Escrever Arquivo CSV\bin\Debug\net6.0\TP3 - Escrever Arquivo CSV.pdb
+C:\Users\hunte\Documents\Programmer\Estudos\Faculdade\Back-End\PB\TP3 - Escrever Arquivo CSV\obj\Debug\net6.0\TP3 - Escrever Arquivo CSV.csproj.AssemblyReference.cache
+C:\Users\hunte\Documents\Programmer\Estudos\Faculdade\Back-End\PB\TP3 - Escrever Arquivo CSV\obj\Debug\net6.0\TP3 - Escrever Arquivo CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\Documents\Programmer\Estudos\Faculdade\Back-End\PB\TP3 - Escrever Arquivo CSV\obj\Debug\net6.0\TP3 - Escrever Arquivo CSV.AssemblyInfoInputs.cache
+C:\Users\hunte\Documents\Programmer\Estudos\Faculdade\Back-End\PB\TP3 - Escrever Arquivo CSV\obj\Debug\net6.0\TP3 - Escrever Arquivo CSV.AssemblyInfo.cs
+C:\Users\hunte\Documents\Programmer\Estudos\Faculdade\Back-End\PB\TP3 - Escrever Arquivo CSV\obj\Debug\net6.0\TP3 - Escrever Arquivo CSV.csproj.CoreCompileInputs.cache
+C:\Users\hunte\Documents\Programmer\Estudos\Faculdade\Back-End\PB\TP3 - Escrever Arquivo CSV\obj\Debug\net6.0\TP3 - Escrever Arquivo CSV.dll
+C:\Users\hunte\Documents\Programmer\Estudos\Faculdade\Back-End\PB\TP3 - Escrever Arquivo CSV\obj\Debug\net6.0\refint\TP3 - Escrever Arquivo CSV.dll
+C:\Users\hunte\Documents\Programmer\Estudos\Faculdade\Back-End\PB\TP3 - Escrever Arquivo CSV\obj\Debug\net6.0\TP3 - Escrever Arquivo CSV.pdb
+C:\Users\hunte\Documents\Programmer\Estudos\Faculdade\Back-End\PB\TP3 - Escrever Arquivo CSV\obj\Debug\net6.0\TP3 - Escrever Arquivo CSV.genruntimeconfig.cache
+C:\Users\hunte\Documents\Programmer\Estudos\Faculdade\Back-End\PB\TP3 - Escrever Arquivo CSV\obj\Debug\net6.0\ref\TP3 - Escrever Arquivo CSV.dll
